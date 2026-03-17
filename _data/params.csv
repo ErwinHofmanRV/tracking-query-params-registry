@@ -108,7 +108,7 @@ tw_campaign, Triple Whale, https://kb.triplewhale.com/en/articles/9534445-attrib
 tw_term, Triple Whale, https://kb.triplewhale.com/en/articles/9534445-attribution-for-non-integrated-channels, 
 tw_content, Triple Whale, https://kb.triplewhale.com/en/articles/9534445-attribution-for-non-integrated-channels, 
 tw_adid, Triple Whale, https://kb.triplewhale.com/en/articles/6448705-acceptable-utm-source-ad-id-values, 
-tw_kwdid, Triple Whale, Undocumented, but always combined with tw_adid&tw_campaign&tw_source, 
+tw_kwdid, Triple Whale, Undocumented but always combined with tw_adid&tw_campaign&tw_source, 
 gadid,Google,https://kb.triplewhale.com/en/articles/6448705-acceptable-utm-source-ad-id-values,
 fbadid,Meta/Facebook,https://kb.triplewhale.com/en/articles/6448705-acceptable-utm-source-ad-id-values,
 ttadid,TikTok,https://kb.triplewhale.com/en/articles/6448705-acceptable-utm-source-ad-id-values,
