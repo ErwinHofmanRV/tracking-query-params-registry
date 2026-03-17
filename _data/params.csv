@@ -139,7 +139,7 @@ nb_pi,Northbeam,Always combined with ntb and other nb_* params,
 nb_placement,Northbeam,https://docs.northbeam.io/docs/setting-up-facebook-ads-tracking,
 nb_ppi,Northbeam,Always combined with ntb and other nb_* params,
 nb_ti,Northbeam,Always combined with ntb and other nb_* params,
-channable,Channable,https://www.channable.com/help,false
+channable,Channable,https://www.channable.com/help,
 adid,Google Analytics and Ads,https://docs.wp-rocket.me/article/971-caching-query-strings#ignored-parameters,
 adgroupid,Google Analytics and Ads,https://docs.wp-rocket.me/article/971-caching-query-strings#ignored-parameters,
 adtype,Google Analytics and Ads,,
