@@ -85,6 +85,12 @@ hsa_net, Hubspot, https://knowledge.hubspot.com/ads/ad-tracking-in-hubspot,
 hsa_kw, Hubspot, https://knowledge.hubspot.com/ads/ad-tracking-in-hubspot,
 hsa_tgt, Hubspot, https://knowledge.hubspot.com/ads/ad-tracking-in-hubspot,
 hsa_ver, Hubspot, https://knowledge.hubspot.com/ads/ad-tracking-in-hubspot,
+_hsenc, Hubspot, https://knowledge.hubspot.com/email/manage-your-marketing-email-account-settings#identity-tracking, Yes
+_hsmi, Hubspot, https://knowledge.hubspot.com/email/links-in-emails-or-ctas-lead-to-an-error-page,
+__hssc, Hubspot, https://knowledge.hubspot.com/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser, Yes
+__hstc, Hubspot, https://knowledge.hubspot.com/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser, Yes
+__hsfp, Hubspot, https://knowledge.hubspot.com/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser, Yes
+hsCtaTracking, Hubspot, https://knowledge.hubspot.com/ctas/calls-to-action-frequently-asked-questions#why-is-the-landing-page-url-so-long-after-i-click-on-a-cta, Yes
 _branch_match_id, Branch, https://stackoverflow.com/a/37892369, Yes
 mkevt, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
 mkcid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
